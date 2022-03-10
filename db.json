@@ -1,5 +1,5 @@
 {
-  "tasks":[
+  "tasks": [
     {
       "id": 1,
       "text": "Terminar de aprender Angular",
@@ -23,14 +23,6 @@
       "text": "Leer mi libro favorito",
       "day": "Marzo 6 a las 21:00",
       "reminder": false
-    },
-    {
-      "id": 5,
-      "text": "Leer mi comic favorito",
-      "day": "Marzo 7 a las 13:00",
-      "reminder": true
     }
-
   ]
-
 }
